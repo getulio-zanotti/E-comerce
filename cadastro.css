@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+img{
+    width: 100%;
+}
+
+aside{
+    width:40%;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  background-color: #fafafa;
+}
+header {
+  background: #161617;
+  opacity: 0.8;
+  margin-bottom: 1em;
+}
+#logo {
+  width: 20px;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 1% 10%;
+}
+nav a,
+svg {
+  color: rgba(255, 255, 255, 0.8);
+  text-decoration: none;
+  font-size: xx-small;
+}
